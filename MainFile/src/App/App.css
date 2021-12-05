@@ -1,0 +1,17 @@
+body{
+  background-color: rgb(14, 31, 56);
+  color: rgb(28, 255, 7);
+}
+
+.LoadingCoins {
+  margin-top: 220px;
+}
+.LoadingPrices{
+  margin-top: 220px;
+  margin-left: 0px;
+}
+.loading{
+  text-align: center;
+  color: antiquewhite;
+  margin-top: 15%;
+}
